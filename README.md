@@ -10,7 +10,7 @@ Utilizes local storage in order to preserve users list.
 Download the XAMPP Apache client for localhost access.
 Create directory in the htdocs directory and place files within.
 Start apache server. Confirm port to connect to (Default is 80).
-Connect to localhost:<port Number>/<directory name>/page1.html
+Connect to localhost:(port Number)/(directory name)/page1.html
 
 
 
