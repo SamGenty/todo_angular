@@ -13,4 +13,5 @@ Start apache server. Confirm port to connect to (Default is 80).
 Connect to localhost:(port number)/(directory name)/page1.html
 
 
-
+###### License
+MIT
